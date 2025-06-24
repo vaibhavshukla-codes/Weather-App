@@ -18,3 +18,5 @@ A simple and responsive weather application built using **React.js** and the **O
 - **API**: [OpenWeatherMap API](https://openweathermap.org/api)
 - **UI Components & Icons**: [Material UI](https://mui.com/) for form input, buttons, icons, and cards
 
+🔗 **Live Demo:** [Click here to view the app]([https://weather-app.vercel.app](https://weather-app-two-xi-64.vercel.app/))
+
