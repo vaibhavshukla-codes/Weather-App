@@ -21,11 +21,11 @@ A simple and responsive weather application built using **React.js** and the **O
 
 🔗 **Live Demo:** [Click here to view the app](https://weather-app-two-xi-64.vercel.app/)
 
---
+
 
 ## 📸 Preview
 
 ![Weather App Preview](screenshot.png)
 
---
+
 
